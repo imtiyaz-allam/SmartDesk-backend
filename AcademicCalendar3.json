@@ -1,0 +1,74 @@
+[
+  {
+    "day": "08/09/2025",
+    "event": "Commencement of Odd Semester classes"
+  },
+  {
+    "day": "06/10/2025 to 15/10/2025",
+    "event": "Conduction of 1st Quiz test"
+  },
+  {
+    "day": "03/11/2025 to 08/11/2025",
+    "event": "Conduction of 2nd Quiz test"
+  },
+  {
+    "day": "12/11/2025 to 22/11/2025",
+    "event": "Mid Semester Examination"
+  },
+  {
+    "day": "15/12/2025 to 20/12/2025",
+    "event": "Conduction of 3rd Quiz test"
+  },
+  {
+    "day": "29/12/2025 to 03/01/2026",
+    "event": "Odd Semester Break"
+  },
+  {
+    "day": "07/01/2026",
+    "event": "Last Day of Odd Semester Classes"
+  },
+  {
+    "day": "08/01/2026 to 10/01/2026",
+    "event": "Revision Classes for End Semester Examination"
+  },
+  {
+    "day": "14/01/2026 to 30/01/2026",
+    "event": "End Semester Examination"
+  },
+  {
+    "day": "02/02/2026",
+    "event": "Commencement of Even Semester classes"
+  },
+  {
+    "day": "10/02/2026 to 17/02/2026",
+    "event": "Even Semester Break"
+  },
+  {
+    "day": "02/03/2026 to 07/03/2026",
+    "event": "Conduction of 1st Quiz test"
+  },
+  {
+    "day": "06/04/2026 to 11/04/2026",
+    "event": "Conduction of 2nd Quiz test"
+  },
+  {
+    "day": "15/04/2026 to 25/04/2026",
+    "event": "Mid Semester Examination"
+  },
+  {
+    "day": "04/05/2026 to 09/05/2026",
+    "event": "Conduction of 3rd Quiz test"
+  },
+  {
+    "day": "20/05/2026",
+    "event": "Last Day of Even Semester Classes"
+  },
+  {
+    "day": "21/05/2026 to 23/05/2026",
+    "event": "Revision Classes for End Semester Examination"
+  },
+  {
+    "day": "27/05/2026 to 12/06/2026",
+    "event": "End Semester Examination"
+  }
+]
