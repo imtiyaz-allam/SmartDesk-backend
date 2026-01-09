@@ -1,74 +1,74 @@
 [
   {
     "sl": "1",
-    "name": "Maha Shivaratri",
-    "date": "26.02.2025",
-    "day": "Wednesday"
+    "name": "Republic Day",
+    "date": "26.01.2026",
+    "day": "Monday"
   },
   {
     "sl": "2",
     "name": "Holi",
-    "date": "15.03.2025",
-    "day": "Saturday"
+    "date": "04.03.2026",
+    "day": "Wednesday"
   },
   {
     "sl": "3",
-    "name": "Id-ul-Zuha",
-    "date": "07.06.2025",
-    "day": "Saturday"
+    "name": "Good Friday",
+    "date": "03.04.2026",
+    "day": "Friday"
   },
   {
     "sl": "4",
-    "name": "Rath Yatra",
-    "date": "27.06.2025",
-    "day": "Friday"
+    "name": "Id-ul-Zuha",
+    "date": "27.05.2026",
+    "day": "Wednesday"
   },
   {
     "sl": "5",
-    "name": "Independence Day/Janmastami",
-    "date": "15.08.2025",
-    "day": "Friday"
-  },
-  {
-    "sl": "6",
-    "name": "Ganesh Puja",
-    "date": "27.08.2025",
-    "day": "Wednesday"
-  },
-  {
-    "sl": "7",
-    "name": "Maha Ashtami",
-    "date": "30.09.2025",
-    "day": "Tuesday"
-  },
-  {
-    "sl": "8",
-    "name": "Maha Navami",
-    "date": "01.10.2025",
-    "day": "Wednesday"
-  },
-  {
-    "sl": "9",
-    "name": "Gandhi Jayanti/Dussehra",
-    "date": "02.10.2025",
+    "name": "Rath Yatra",
+    "date": "16.07.2026",
     "day": "Thursday"
   },
   {
+    "sl": "6",
+    "name": "Independence Day",
+    "date": "15.08.2026",
+    "day": "Saturday"
+  },
+  {
+    "sl": "7",
+    "name": "Janmasthami",
+    "date": "04.09.2026",
+    "day": "Friday"
+  },
+  {
+    "sl": "8",
+    "name": "Ganesh Puja",
+    "date": "14.09.2026",
+    "day": "Monday"
+  },
+  {
+    "sl": "9",
+    "name": "Gandhi Jayanti",
+    "date": "02.10.2026",
+    "day": "Friday"
+  },
+  {
     "sl": "10",
-    "name": "Diwali (Deepawali)",
-    "date": "21.10.2025",
-    "day": "Tuesday"
+    "name": "Maha Navami",
+    "date": "19.10.2026",
+    "day": "Monday"
   },
   {
     "sl": "11",
-    "name": "Kartika Purnima",
-    "date": "05.11.2025",
-    "day": "Wednesday"
+    "name": "Vijaya Dasami",
+    "date": "20.10.2026",
+    "day": "Tuesday"
   },
   {
     "sl": "12",
     "name": "X-Mass Day",
-    "date": "25.12.2025",
-    "day": "Thursday"
+    "date": "25.12.2026",
+    "day": "Friday"
   }
 ]
