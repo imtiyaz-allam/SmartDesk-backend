@@ -64,15 +64,19 @@
     "event": "Conduction of 3rd Quiz test"
   },
   {
-    "day": "20/05/2026",
+    "day": "16/05/2026",
     "event": "Last Day of Even Semester Classes"
   },
   {
-    "day": "21/05/2026 to 23/05/2026",
+    "day": "18/05/2026 to 20/05/2026",
     "event": "Revision Classes for End Semester Examination"
   },
   {
-    "day": "27/05/2026 to 12/06/2026",
+    "day": "21/05/2026 to 23/05/2026",
+    "event": "Preparatory Break for End Semester Examination"
+  },
+  {
+    "day": "25/05/2026 to 10/06/2026",
     "event": "End Semester Examination"
   }
 ]
